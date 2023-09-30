@@ -1,0 +1,22 @@
+h1{
+    font: 3em sans-serif;
+    color: #01271a;
+    text-align: center;
+    
+}
+article p{
+    text-align-last:auto;
+    font-size: 20px;
+    font-style: italic;
+    
+}
+article h2{
+    font: 3em sans-serif;
+    color: #01271a;
+    
+}
+article h3{
+    font: 2em sans-serif;
+    color: #010527;
+    
+}

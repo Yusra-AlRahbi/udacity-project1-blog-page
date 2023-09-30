@@ -1,0 +1,34 @@
+@import url('./layout.css');
+@import url('Thero.css');
+@import url('cards.css');
+@import url('nav.css');
+
+
+.Main {
+    background-color: #f0f8ff;
+}
+.SideBar  li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    display: inline;
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+}
+.SideBar a:hover {
+    background-color: #8aa8a4;
+    border-radius: 5px;
+    padding: 15px 15px;
+    text-align: center;
+}
+p{
+   font-size: 20px;
+}
+.cards p:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.search-input{
+margin: 15px 15px;
+}
